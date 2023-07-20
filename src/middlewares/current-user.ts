@@ -15,6 +15,7 @@ declare global {
         }
 }
 
+
 export const currentUser = async (
   req: Request,
   res: Response,
